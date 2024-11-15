@@ -1,0 +1,6 @@
+@DemoPracticeMediatr_HostAddress = http://localhost:5084
+
+GET {{DemoPracticeMediatr_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
